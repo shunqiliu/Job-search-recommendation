@@ -1,6 +1,6 @@
 # Recommend jobs by given profile
-## This project more like the screening resumes from Linkedin
-## The project mainly include word2vec, naive bayes
+## This project more like the function: screening resumes
+## The project includes word2vec, naive bayes
 ## Using the genism library as the baseline (contrast)
 
 The raw data comes from Upenn courses, which cannot shown to public.

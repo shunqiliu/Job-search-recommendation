@@ -1,7 +1,7 @@
 # Recommend jobs by given profile
-## This project more like the function: screening resumes
-## The project includes word2vec, naive bayes
-## Using the genism library as the baseline (contrast)
+The main idea of this project is to implement the function: screening resumes. Using machine learning method to identify if a given profile is suitable for a certain job position. Instead of giving a definitive identification, the recommend system shows the probability of "adaptability", as a reference for recruiters to make judgments.
+
+The project includes word2vec, naive bayes. Using the genism library as the baseline (contrast)
 
 The raw data comes from Upenn courses, which cannot shown to public.
 

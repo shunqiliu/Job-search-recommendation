@@ -43,3 +43,6 @@ fuzzy label bayes.py is the code about constructing fuzzy label naive-bayes mode
 
 ## Conclusion
 After implementing all the machine learning classifiers above, we achieve accuracies that are at least 80% which is much larger than the baseline accuracy. Among these methods, Neural Network performs best with around 95% accuracy and robustness to noise. Besides, we introduce fuzzy label Naïve-Bayes as an extra criterion for judgement. Fuzzy label Naïve-Bayes provides average confidence for whole database and evaluating how good the label and features we constructed which is 57% in our case. In conclusion, the Resume screening system we built based on machine learning can help HR filtering job seekers at the very first moment without necessity to look through every resume. It can also help job hunters assessing themselves before they submit their resumes.
+
+## job recommendation report.pdf 
+job recommendation report.pdf is the report of the project, you can find any detail about this project in this file.
